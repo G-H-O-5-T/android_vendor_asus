@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00H/proprietary/vendor/lib/libarcsoft_picselfie_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_picselfie_algorithm.so \
     vendor/asus/X00H/proprietary/vendor/lib/libarcsoft_piczoom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_piczoom.so \
     vendor/asus/X00H/proprietary/vendor/lib/libarcsoft_videostab.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_videostab.so \
+    vendor/asus/X00H/proprietary/vendor/lib/libcamera_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera_client.so \
     vendor/asus/X00H/proprietary/vendor/lib/libcamera_selfie.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera_selfie.so \
     vendor/asus/X00H/proprietary/vendor/lib/libjpegHWCompress.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegHWCompress.so \
     vendor/asus/X00H/proprietary/vendor/lib/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmpbase.so \
